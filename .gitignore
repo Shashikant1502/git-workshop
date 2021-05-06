@@ -1,0 +1,5 @@
+/myfile.log
+*log
+*.
+*.cpp
+ignore/
