@@ -2,8 +2,8 @@
    <body>   
       <script language = "javascript" type = "text/javascript">
          <!--
-            document.write("Hello World!")
+          // a new comments is added
          //-->
-      </script>      
+      </script><b> Java script</b>     
    </body>
 </html>
